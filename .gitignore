@@ -1,0 +1,4 @@
+!node_modules/bootstrap/
+!node_modules/font-awesome/
+!projects/**/node_modules/bootstrap/
+!projects/**/node_modules/font-awesome/
